@@ -1,0 +1,6 @@
+chatScreen_message{
+    display: flex;
+}
+.chatScreen_text{
+    margin-left: 10px;
+}

@@ -1,0 +1,14 @@
+.chat{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+    height: 70px;
+    border-bottom: 1px solid #f7f5f5;
+}
+
+.chat_details{
+    flex: 1;
+    padding-left: 15px;
+    
+}
